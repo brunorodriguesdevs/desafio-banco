@@ -18,9 +18,13 @@ O sistema oferece as seguintes funcionalidades:
 
 ```bash
 git clone https://github.com/brunorodriguesdevs/desafio-banco/blob/main/desafio.py
+
 cd sistema-bancario-python
+
 python main.py
+
 Siga as instruções exibidas no console para interagir com o sistema.
+
 Contribuições
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
