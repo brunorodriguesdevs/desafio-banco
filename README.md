@@ -17,7 +17,7 @@ O sistema oferece as seguintes funcionalidades:
 1. Clone o repositório:
 
 ```bash
-git clone https://brunorodriguesdevs.github.io/desafio-banco/
+git clone https://github.com/brunorodriguesdevs/desafio-banco/blob/main/desafio.py
 cd sistema-bancario-python
 python main.py
 Siga as instruções exibidas no console para interagir com o sistema.
