@@ -1,4 +1,4 @@
-# Sistema Bancário Simples em Python
+# Sistema Bancário Simples em Python-DIO
 
 Este é um sistema bancário simples em Python desenvolvido como parte de um projeto de aprendizado.
 
